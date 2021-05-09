@@ -31,7 +31,7 @@
     "draftjs-utils": "^0.9.4",
     "https-proxy-agent": "^2.2.1",
     "joi": "^13.6.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "ml-kmeans": "^4.2.1",
     "ms": "^2.1.1",
     "nanoid": "^2.0.1",

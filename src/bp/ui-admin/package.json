@@ -15,7 +15,7 @@
     "firebase": "^5.9.1",
     "jdenticon": "^2.1.1",
     "joi-browser": "^13.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ms": "^2.1.1",
     "nanoid": "^2.0.1",
     "query-string": "^6.4.0",
